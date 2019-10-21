@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClassRoom",
+            "request": "launch",
+            "mainClass": "ClassRoom"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Wilder",
+            "request": "launch",
+            "mainClass": "Wilder"
+        }
+    ]
+}
